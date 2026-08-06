@@ -1,0 +1,127 @@
+** Drc report for metrocard.kicad_pcb **
+** Created on 2026-08-06T23:52:01+0530 **
+** Report includes: Errors, Warnings **
+
+** Found 30 DRC violations **
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+    @(198.8900 mm, 96.9100 mm): Reference field of C1
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(199.8300 mm, 96.1987 mm): Segment of C1 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(201.6500 mm, 96.1987 mm): Segment of C1 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(224.1525 mm, 91.7400 mm): Reference field of JP3
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(224.1525 mm, 94.6100 mm): Reference field of JP2
+    @(222.7525 mm, 94.5400 mm): Segment of JP3 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(222.7525 mm, 94.5400 mm): Segment of JP3 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(225.5525 mm, 92.5400 mm): Segment of JP3 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(225.5525 mm, 94.5400 mm): Segment of JP3 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(224.1525 mm, 94.6100 mm): Reference field of JP2
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(222.7525 mm, 95.4100 mm): Segment of JP2 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(222.7525 mm, 97.4100 mm): Segment of JP2 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+    @(225.5525 mm, 95.4100 mm): Segment of JP2 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(225.5525 mm, 97.4100 mm): Segment of JP2 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(202.6000 mm, 93.3800 mm): Segment of U1 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+    @(203.2900 mm, 94.0200 mm): Circle of U1 on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(202.6000 mm, 100.5000 mm): Segment of U1 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(218.1000 mm, 93.3800 mm): Segment of U1 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(218.1000 mm, 100.5000 mm): Segment of U1 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(228.5825 mm, 95.4600 mm): Reference field of R5
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(227.8554 mm, 92.7200 mm): Segment of R5 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(227.8554 mm, 94.5400 mm): Segment of R5 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(222.7525 mm, 92.5400 mm): Segment of JP3 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(228.5425 mm, 98.3200 mm): Reference field of R4
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(227.8154 mm, 97.4000 mm): Segment of R4 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(227.8154 mm, 95.5800 mm): Segment of R4 on B.Silkscreen
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(227.8154 mm, 95.5800 mm): Segment of R4 on B.Silkscreen
+    @(228.5825 mm, 95.4600 mm): Reference field of R5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(224.1525 mm, 94.6100 mm): Reference field of JP2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(202.6000 mm, 100.5000 mm): Segment of U1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(218.1000 mm, 93.3800 mm): Segment of U1 on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(177.2999 mm, 73.3230 mm): Polygon of G*** on B.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
