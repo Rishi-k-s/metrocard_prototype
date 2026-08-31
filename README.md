@@ -2,7 +2,8 @@
 
 A credit-card-sized PCB that shows real-time Kochi Metro data — a tiny, tappable transit map you can hold in your wallet.
 
-Built by [Rishi Krishna](https://rishikrishna.com) / [Phenomi](https://phenomi.co).
+Built by [Rishi Krishna](https://rishikrishna.com) / [Phenomi](https://phenomi.co). 
+Checkout the metrocard [Firmware](https://github.com/Rishi-k-s/metrocard_firmware)
 
 ![Front of the card](images/Screenshot%20from%202026-08-07%2023-26-36.png)
 ![Back of the card](images/Screenshot%20from%202026-08-07%2023-26-43.png)
