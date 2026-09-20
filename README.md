@@ -9,6 +9,9 @@ Checkout the metrocard [Firmware](https://github.com/Rishi-k-s/metrocard_firmwar
 
 ![Front of the card](images/Screenshot%20from%202026-08-07%2023-26-36.png)
 ![Back of the card](images/Screenshot%20from%202026-08-07%2023-26-43.png)
+The schematic
+<img width="1791" height="1234" alt="image" src="https://github.com/user-attachments/assets/92b5085e-ea17-4216-adca-a04444f2128b" />
+
 
 ## About
 
